@@ -30,7 +30,7 @@ import RegionSelect from 'react-region-flag-select';
 
 ## Usage
 
-All country Codes Can Be Check Here: [Country Codes](https://github.com)
+All country Codes Can Be Check Here: [Country Codes](https://github.com/TechnologyGeek12/react-region-flag-select/blob/master/src/lib/components/subComponents/data/countryCodes.txt)
 
 
 # Default country, state, city select with flag and phone code
