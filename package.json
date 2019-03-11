@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "description": "Dynamic and custom react country, state, city select drop-down with flag and phone code options",
+  "repository": "TechnologyGeek12/react-region-flag-select",
+  "license": "MIT",
+  "keywords": [
+    "React Region Flag Select",
+    "npm"
+  ],
   "files": [
     "dist"
   ],
