@@ -1,6 +1,6 @@
 {
   "name": "react-region-flag-select",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "description": "Dynamic and custom react country, state, city select drop-down with flag and phone code options",
